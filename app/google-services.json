@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83548780649",
+    "firebase_url": "https://gamersoci-e9aef.firebaseio.com",
+    "project_id": "gamersoci-e9aef",
+    "storage_bucket": "gamersoci-e9aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83548780649:android:c166602495c3bdaad8caf8",
+        "android_client_info": {
+          "package_name": "com.example.gamersoci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83548780649-7odlo3aseep12vvaboreiei9cdi0ohmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamersoci",
+            "certificate_hash": "bac4fab919170e672f44943c4debbc87e6b206af"
+          }
+        },
+        {
+          "client_id": "83548780649-24pubc299gjjdh1pc912tv45nlq47l73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-e3bBUP3q_xH4w-jnTprIkOvpdn3Di4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83548780649-24pubc299gjjdh1pc912tv45nlq47l73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
